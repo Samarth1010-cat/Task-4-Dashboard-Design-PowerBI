@@ -92,12 +92,8 @@ The dashboard enables users to:
 
 ## 📷 Dashboard Preview
 
-(Add your dashboard screenshot here)
-
-Example:
-
-![Dashboard](Dashboard Screenshot1.png)
-![Dashboard](Dashboard Screenshot2.png)
+(Dashboard Screenshot1.png)
+(Dashboard Screenshot2.png)
 
 ---
 
