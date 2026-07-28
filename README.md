@@ -108,13 +108,6 @@ Dashboard Screenshots/Dashboard Screenshot2.png
 ## 👨‍💻 Author
 
 **Samarth Gangawane**
-
-Data Analyst Intern
-
-GitHub: https://github.com/YOUR-USERNAME
-
-LinkedIn: Add your LinkedIn profile (optional)
-
 ---
 
 ## ⭐ Skills Demonstrated
