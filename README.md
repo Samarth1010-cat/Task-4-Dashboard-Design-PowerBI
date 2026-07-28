@@ -90,7 +90,7 @@ The dashboard enables users to:
 
 ---
 
-## 📷 Dashboard Preview
+## 📷 Dashboard Screenshots
 
 Dashboard Screenshots/Dashboard Screenshot1.png
 Dashboard Screenshots/Dashboard Screenshot2.png
