@@ -92,10 +92,11 @@ The dashboard enables users to:
 
 ## 📷 Dashboard Screenshots
 
-Dashboard Screenshots/Dashboard Screenshot1.png
+### 1. Sales Performance Overview
+![Dashboard Screenshot 1](Dashboard%20Screenshots/Dashboard%20Screenshot1.png)
 
-Dashboard Screenshot2.png
----
+### 2. Regional & Model Analysis
+![Dashboard Screenshot 2](Dashboard%20Screenshots/Dashboard%20Screenshot2.png)
 
 ## 📂 Project Files
 
