@@ -93,8 +93,7 @@ The dashboard enables users to:
 ## 📷 Dashboard Preview
 
 Dashboard Screenshots/Dashboard Screenshot1.png
-Dashboard Screenshot2.png
-
+Dashboard Screenshots/Dashboard Screenshot2.png
 ---
 
 ## 📂 Project Files
